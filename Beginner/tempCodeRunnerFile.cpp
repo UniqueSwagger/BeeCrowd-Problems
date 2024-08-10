@@ -1,4 +1,4 @@
-else if (dm<0)
-    // {
-    //     cout << "O JOGO DUROU " <<
-    // }
+       // if (Y==0)
+        // {
+        //     arr.push_back("divisao impossivel");
+        // }
