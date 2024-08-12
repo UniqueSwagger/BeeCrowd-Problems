@@ -1,4 +1,4 @@
-       // if (Y==0)
-        // {
-        //     arr.push_back("divisao impossivel");
-        // }
+    for (int i = 0; i < arr.size(); i++)
+    {
+        cout << arr[i] << endl;
+    }
